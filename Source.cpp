@@ -14,13 +14,9 @@ public:
 
 
 
-
-
-
-
 int main()
 {
-    string aaa = "dlgcdgkv";
+    string aaa = "Hello World";
 
     cout << Solution::lengthOfLastWord(aaa) << endl;
     return 0;
